@@ -6,7 +6,7 @@ function Projects() {
         <h3>Portfolio Website</h3>
         <p>A personal portfolio built with React and Vite.</p>
         <a href="https://github.com/muzhganwafa/my-project.git" target="_blank">View Code</a> |{" "}
-        <a href="my-recent-project-1z6ihz9dz-muzhganwafas-projects.vercel.app" target="_blank">Live Demo</a>
+        <a href="https://my-recent-project.vercel.app/" target="_blank">Live Demo</a>
       </div>
       <div>
         <h3>Invoice App</h3>
@@ -19,3 +19,4 @@ function Projects() {
 }
 
 export default Projects;
+
